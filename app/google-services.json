@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722798631089",
+    "project_id": "chat-application-b8704",
+    "storage_bucket": "chat-application-b8704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722798631089:android:ea44cd62c17b1f12ceaa90",
+        "android_client_info": {
+          "package_name": "tech.ksoft.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722798631089-vr0ru2ho1vd3gdmengprtmgdgtm8krd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAda_cW7S3Xe3gwQCyu8Dw44i51XGjxAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722798631089-vr0ru2ho1vd3gdmengprtmgdgtm8krd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
